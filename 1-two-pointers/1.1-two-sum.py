@@ -56,7 +56,7 @@ class Solution:
 
 
 
-if __file__ == "__main__":
+if __name__ == "__main__":
     test_cases = (
         # (nums, target, expected_output)
         ([2,7,11,15], 9, [1,2]),

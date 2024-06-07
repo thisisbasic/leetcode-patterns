@@ -36,7 +36,7 @@ class Solution:
                 pointer_2 -= 1
         return max_area
 
-if __file__ == "__main__":
+if __name__ == "__main__":
     test_cases = (
         # height, expected
         ([1,8,6,2,5,4,8,3,7], 49),
